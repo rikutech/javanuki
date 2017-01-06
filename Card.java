@@ -1,4 +1,3 @@
-package javanuki;
 
 public class Card
 {	
