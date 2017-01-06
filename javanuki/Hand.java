@@ -7,11 +7,6 @@ import java.util.ArrayList;
  */
 public class Hand
 {	
-	public static void main(String[] args)
-	{
-		
-	}
-
 	private ArrayList<Card> hand = new ArrayList<Card>();
 
 	public int getCardCount()
