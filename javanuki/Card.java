@@ -1,8 +1,11 @@
 package javanuki;
 
 public class Card
-{
-	//JOKERはnumberで判断する(suitではない)
+{	
+	/**
+	 * The constant that indicates JOKER.
+	 * This is assigned to not suit but number.
+	 */
 	public static final int JOKER        = 0;
 	
 	public static final int SUIT_SPADE   = 1;
